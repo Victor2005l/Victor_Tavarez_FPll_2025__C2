@@ -1,0 +1,16 @@
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\bin\Debug\net8.0-windows\Video #7.exe
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\bin\Debug\net8.0-windows\Video #7.deps.json
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\bin\Debug\net8.0-windows\Video #7.runtimeconfig.json
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\bin\Debug\net8.0-windows\Video #7.dll
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\bin\Debug\net8.0-windows\Video #7.pdb
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\obj\Debug\net8.0-windows\Video__7.Form1.resources
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\obj\Debug\net8.0-windows\Video #7.csproj.GenerateResource.cache
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\obj\Debug\net8.0-windows\Video #7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\obj\Debug\net8.0-windows\Video #7.AssemblyInfoInputs.cache
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\obj\Debug\net8.0-windows\Video #7.AssemblyInfo.cs
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\obj\Debug\net8.0-windows\Video #7.csproj.CoreCompileInputs.cache
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\obj\Debug\net8.0-windows\Video #7.dll
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\obj\Debug\net8.0-windows\refint\Video #7.dll
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\obj\Debug\net8.0-windows\Video #7.pdb
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\obj\Debug\net8.0-windows\Video #7.genruntimeconfig.cache
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Video #7\Video #7\obj\Debug\net8.0-windows\ref\Video #7.dll
