@@ -1,0 +1,16 @@
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\bin\Debug\net8.0-windows\Proyec #5.exe
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\bin\Debug\net8.0-windows\Proyec #5.deps.json
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\bin\Debug\net8.0-windows\Proyec #5.runtimeconfig.json
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\bin\Debug\net8.0-windows\Proyec #5.dll
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\bin\Debug\net8.0-windows\Proyec #5.pdb
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\obj\Debug\net8.0-windows\Proyec__5.Form1.resources
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\obj\Debug\net8.0-windows\Proyec #5.csproj.GenerateResource.cache
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\obj\Debug\net8.0-windows\Proyec #5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\obj\Debug\net8.0-windows\Proyec #5.AssemblyInfoInputs.cache
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\obj\Debug\net8.0-windows\Proyec #5.AssemblyInfo.cs
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\obj\Debug\net8.0-windows\Proyec #5.csproj.CoreCompileInputs.cache
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\obj\Debug\net8.0-windows\Proyec #5.dll
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\obj\Debug\net8.0-windows\refint\Proyec #5.dll
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\obj\Debug\net8.0-windows\Proyec #5.pdb
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\obj\Debug\net8.0-windows\Proyec #5.genruntimeconfig.cache
+C:\Users\Victor Tavarez\Desktop\Repositorio Victor tavarez\Ejemplo\Comandos de GIT\Proyec #5\Proyec #5\obj\Debug\net8.0-windows\ref\Proyec #5.dll
