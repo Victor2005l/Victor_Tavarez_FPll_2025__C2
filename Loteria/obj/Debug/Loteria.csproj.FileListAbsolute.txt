@@ -1,0 +1,22 @@
+C:\Users\robin\source\repos\Loteria\bin\Debug\Loteria.exe.config
+C:\Users\robin\source\repos\Loteria\bin\Debug\Loteria.exe
+C:\Users\robin\source\repos\Loteria\bin\Debug\Loteria.pdb
+C:\Users\robin\source\repos\Loteria\obj\Debug\Loteria.csproj.AssemblyReference.cache
+C:\Users\robin\source\repos\Loteria\obj\Debug\Loteria.Form1.resources
+C:\Users\robin\source\repos\Loteria\obj\Debug\Loteria.Properties.Resources.resources
+C:\Users\robin\source\repos\Loteria\obj\Debug\Loteria.csproj.GenerateResource.cache
+C:\Users\robin\source\repos\Loteria\obj\Debug\Loteria.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\Loteria\obj\Debug\Loteria.exe
+C:\Users\robin\source\repos\Loteria\obj\Debug\Loteria.pdb
+C:\Users\robin\source\repos\Loteria\obj\Debug\Loteria.exe.config
+C:\Users\Victor Tavarez\Desktop\Loteria\bin\Debug\Loteria.exe.config
+C:\Users\Victor Tavarez\Desktop\Loteria\bin\Debug\Loteria.exe
+C:\Users\Victor Tavarez\Desktop\Loteria\bin\Debug\Loteria.pdb
+C:\Users\Victor Tavarez\Desktop\Loteria\obj\Debug\Loteria.csproj.AssemblyReference.cache
+C:\Users\Victor Tavarez\Desktop\Loteria\obj\Debug\Loteria.exe.config
+C:\Users\Victor Tavarez\Desktop\Loteria\obj\Debug\Loteria.Form1.resources
+C:\Users\Victor Tavarez\Desktop\Loteria\obj\Debug\Loteria.Properties.Resources.resources
+C:\Users\Victor Tavarez\Desktop\Loteria\obj\Debug\Loteria.csproj.GenerateResource.cache
+C:\Users\Victor Tavarez\Desktop\Loteria\obj\Debug\Loteria.csproj.CoreCompileInputs.cache
+C:\Users\Victor Tavarez\Desktop\Loteria\obj\Debug\Loteria.exe
+C:\Users\Victor Tavarez\Desktop\Loteria\obj\Debug\Loteria.pdb
